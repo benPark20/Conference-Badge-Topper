@@ -6,5 +6,5 @@ I also found this[ thing](https://www.amazon.com/400Pcs-Premium-Straps-Holders-B
 
 <img src="https://github.com/user-attachments/assets/cc70fc45-64e6-41ea-9bd3-0940b11b122b" alt="drawing" width="300"/>
 <img src="https://github.com/user-attachments/assets/65a888f5-3a3a-4e66-82ea-ba23a63bdac5" alt="drawing" width="400"/>
+
 **Time Spent: ~1h**
-~~~~~~~~~~~~~~~~~~~
