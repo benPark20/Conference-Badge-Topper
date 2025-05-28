@@ -12,9 +12,9 @@ I also found this [thing](https://www.amazon.com/400Pcs-Premium-Straps-Holders-B
 ## Wednesday, May 28th, 2025
 Before I can start with the schematic, I need to come up with a scope for this project. I want the pinouts to be the same as the original badger, but also want some extra features with the pins that are not used. Here is the list of featrues that I will stick too
 - Pi Pico W for wireless connectivity
-- RGB user LED (upgraded from the plain one before)
+- User LED
+- RGB LED
 - 6 total user buttons
-- RGB LED for each button
 - reset switch
 - QUIIC connnector
 - E-Ink Display
