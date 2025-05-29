@@ -23,4 +23,7 @@ Before I can start with the schematic, I need to come up with a scope for this p
 - Battery
 - Battery Capacity Readings
 
-**Time Spent: ~0.25h**
+Now that is done I have a almost completed schematic. I just need the NFC parts
+![image](https://github.com/user-attachments/assets/4afa5b82-b02b-4f2e-80a2-08d7c3befa3f)
+
+**Time Spent: ~3h**
