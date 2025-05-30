@@ -30,6 +30,7 @@ Now that is done I have a almost completed schematic. I just need the NFC parts
 
 ## Thursday, May 29th, 2025
 I added the nfc chip to the schematic and I started sourcing parts. I think im going to use all 0805 smd parts where I can. I also found the right fpc connector for my e-ink display
+
 ![image](https://github.com/user-attachments/assets/152cc226-da66-4806-919a-dd9cb594f404)
 
 **Time Spent: ~2h**
